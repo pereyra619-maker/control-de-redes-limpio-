@@ -15,9 +15,7 @@ const CLOUD_TABLE = "cm_shared_boards";
 // Si los dejás vacíos, la app funciona perfecto en modo local.
 const FIXED_CLOUD_CONFIG = {
   url: "https://ervixuormkqzhontneam.supabase.co",
-  anonKey: "sb_publishable_NYTR4gjsuqLOie8tfZtM-w_0bjMarUa
-
-",
+  anonKey: "sb_publishable_NYTR4gjsuqLOie8tfZtM-w_0bjMarUa",
   boardCode: "ANDREA-MARISOL-CM",
   boardTitle: "Tablero compartido Andrea y Marisol",
 };
