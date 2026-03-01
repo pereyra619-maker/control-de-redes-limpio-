@@ -16,7 +16,7 @@ const CLOUD_TABLE = "cm_shared_boards";
 const FIXED_CLOUD_CONFIG = {
   url: "https://ervixuormkqzhontneam.supabase.co",
   anonKey: "sb_publishable_NYTR4gjsuqLOie8tfZtM-w_0bjMarUa",
-  boardCode: "ANDREA-MARISOL-CM",
+  boardCode: "ANDREA-MARISOL-CM-NUBE",
   boardTitle: "Tablero compartido Andrea y Marisol",
 };
 
