@@ -14,8 +14,10 @@ const CLOUD_TABLE = "cm_shared_boards";
 // COMPLETAR SOLO UNA VEZ SI QUERÉS TABLERO COMPARTIDO REAL.
 // Si los dejás vacíos, la app funciona perfecto en modo local.
 const FIXED_CLOUD_CONFIG = {
-  url: "TU_URL_DE_SUPABASE",
-  anonKey: "TU_KEY_PUBLICA",
+  url: "https://ervixuormkqzhontneam.supabase.co",
+  anonKey: "sb_publishable_NYTR4gjsuqLOie8tfZtM-w_0bjMarUa
+
+",
   boardCode: "ANDREA-MARISOL-CM",
   boardTitle: "Tablero compartido Andrea y Marisol",
 };
